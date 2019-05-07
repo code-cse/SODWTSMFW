@@ -1,5 +1,5 @@
 
-## Summarization of documents with `Title of Doc`, `Summary of Doc` and `Most frequent word`
+## Summarization of documents with 'Title of Doc', 'Summary of Doc' and 'Most frequent word'
 
 This repository contains the code for summarization of a `Documents` or `Paragraph` with `Title`, `Summary` and `Most frequent word`.
 
@@ -7,7 +7,7 @@ This repository contains the code for summarization of a `Documents` or `Paragra
 
 ```
 
-├── ckpt_		         # Weight used in prediction
+├── ckpt_	             # Weight used in prediction
 ├── images               # Most frequent images for input data
 ├── input-data           # Input data for summary.
 ├── src                  # SRC contain scripts for training and testing
@@ -17,40 +17,40 @@ This repository contains the code for summarization of a `Documents` or `Paragra
 
 ```
 
-#### `Input` :
+#### Input :
 
 [input1.txt](input-data)
 
-#### `Result` :
+#### Result :
 
-##### `Title`
+##### Title
 
 Project Apollo was the third United States human spaceflight program.
 
-##### `Summary`
+##### Summary
 
 The Apollo program, also known as Project Apollo, was the third United States human spaceflight program carried out by the National Aeronautics and Space Administration (NASA), which accomplished landing the first humans on the Moon from 1969 to 1972. Eisenhower's administration as a three-man spacecraft to follow the one-man Project Mercury which put the first Americans in space, Apollo was later dedicated to President John F. Project Mercury was followed by the two-man Project Gemini (1962–66).
 
-##### `Most Frequent Word`
+##### Most Frequent Word
 
 ![alt text](images/result1..png)
 
 
-#### `Input` :
+#### Input :
 
 [input2.txt](input-data)
 
-#### `Result` :
+#### Result :
 
-##### `Title`
+##### Title
 
 The Panthers finished the regular season with a 15 minute 1 record.
 
-##### `Summary`
+##### Summary
 
 The Broncos finished the regular season with a 12–4 record, and denied the New England Patriots a chance to defend their title from Super Bowl XLIX by defeating them 20–18 in the AFC Championship Game. They defeated the Arizona Cardinals 49–15 in the NFC Championship Game and advanced to their second Super Bowl appearance since the franchise was founded in 1995. They joined the Patriots, Dallas Cowboys, and Pittsburgh Steelers as one of four teams that have made eight appearances in the Super Bowl.
 
-##### `Most Frequent Word`
+##### Most Frequent Word
 
 ![alt text](images/result2..png)
 
