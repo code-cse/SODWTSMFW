@@ -4,8 +4,6 @@ This repository contains the code for summarization of a `Documents` or `Paragra
 `SODWTSMFW`  --  `Summarization of documents with Title of Doc, Summary of Doc and Most frequent word` 
 
 ### Project Structure
-```
-
 ├── ckpt_	             # Weight used in prediction
 ├── images               # Most frequent images for input data
 ├── input-data           # Input data for summary.
@@ -13,9 +11,6 @@ This repository contains the code for summarization of a `Documents` or `Paragra
 ├── vocab                # Vocab used for summarization.
 ├── Readme               # Readme for SODWTSMFW
 ├── requiremnts          # Requirements file for SODWTSMFW
-
-```
-
 #### Input :
 [input1.txt](input-data)
 
