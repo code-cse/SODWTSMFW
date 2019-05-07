@@ -3,7 +3,9 @@
 
 This repository contains the code for summarization of a `Documents` or `Paragraph` with `Title`, `Summary` and `Most frequent word`.
 
-#### `SODWTSMFW`  --  `Summarization of documents with Title of Doc, Summary of Doc and Most frequent word` 
+`SODWTSMFW`  --  `Summarization of documents with Title of Doc, Summary of Doc and Most frequent word` 
+
+### Project Structure
 
 ```
 
@@ -33,7 +35,7 @@ The Apollo program, also known as Project Apollo, was the third United States hu
 
 ##### Most Frequent Word
 
-![alt text](images/result1..png)
+![alt text](images/1.png)
 
 
 #### Input :
@@ -52,7 +54,7 @@ The Broncos finished the regular season with a 12–4 record, and denied the New
 
 ##### Most Frequent Word
 
-![alt text](images/result2..png)
+![alt text](images/2.png)
 
 
 ### Research Paper Reference for this repository:
