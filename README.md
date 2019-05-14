@@ -5,7 +5,7 @@ This repository contains the code for summarization of a `Documents` or `Paragra
 
 ### Project Structure
 ```
-├── ckpt_	            # Weight used in prediction
+├── ckpt_	          # Weight used in prediction
 ├── images               # Most frequent images for input data
 ├── input-data           # Input data for summary.
 ├── src                  # SRC contain scripts for training and testing
