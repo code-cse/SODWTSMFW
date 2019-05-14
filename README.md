@@ -1,11 +1,11 @@
 
-## Summarization of documents with 'Title of Doc', 'Summary of Doc' and 'Most frequent word'
+## Summarization of documents with Title of Doc, Summary of Doc and Most frequent word images.
 This repository contains the code for summarization of a `Documents` or `Paragraph` with `Title`, `Summary` and `Most frequent word`.
 `SODWTSMFW`  --  `Summarization of documents with Title of Doc, Summary of Doc and Most frequent word` 
 
 ### Project Structure
 ```
-├── ckpt_	             # Weight used in prediction
+├── ckpt_	               # Weight used in prediction
 ├── images               # Most frequent images for input data
 ├── input-data           # Input data for summary.
 ├── src                  # SRC contain scripts for training and testing
